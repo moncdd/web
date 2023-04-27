@@ -1,0 +1,31 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+	<channel>
+		<title>Mis recetas de cocina</title>
+		<description>Este es mi blog personal de recetas de cocina</description>
+		<link>https://mis-recetas-cocina.wordpress.com/</link>
+		<item>
+			<guid>https://mis-recetas-cocina.wordpress.com/rec/pollo-al-limon.html</guid>
+			<title>Pollo al limón</title>
+			<pubDate>Tue, 14 Feb 2023 15:00:00 +0200</pubDate>
+			<link>https://mis-recetas-cocina.wordpress.com/rec/pollo-al-limon.html</link>
+			<description>Para preparar esta receta los ingredientes son...</description>
+			<media:content url="https://mis-recetas-cocina.wordpress.com/img/pollo-al-limon.jpg"/>
+		</item>
+		<item>
+			<guid>https://mis-recetas-cocina.wordpress.com/rec/albondigas.html</guid>
+			<title>Albondigas con tomate</title>
+			<pubDate>Wed, 25 Jan 2023 21:00:00 +0200</pubDate>
+			<link>https://mis-recetas-cocina.wordpress.com/rec/albondigas.html</link>
+			<description>Los ingredientes necesarios para esta receta son...</description>
+			<media:content url="https://mis-recetas-cocina.wordpress.com/img/img/albondigas.jpg"/>
+		</item>
+		<item>
+			<guid>https://mis-recetas-cocina.wordpress.com/rec/paella.html</guid>
+			<title>Paella valenciana</title>
+			<pubDate>Sun, 17 Jul 2022 17:00:00 +0200</pubDate>
+			<link>https://mis-recetas-cocina.wordpress.com/rec/paella.html</link>
+			<description>Esta receta empieza...</description>
+			<media:content url="https://mis-recetas-cocina.wordpress.com/img/img/paella.jpg"/>
+		</item>
+	</channel>
+</rss>
